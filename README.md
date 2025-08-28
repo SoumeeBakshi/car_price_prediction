@@ -17,11 +17,7 @@ This project predicts the **selling price of cars** using **Machine Learning**. 
 
 
 ## 📊 Results
-- Linear Regression provides a baseline prediction model  
-- Lasso Regression improves feature selection and reduces overfitting  
+- Linear Regression provides a baseline prediction model   
 - Visualizations show strong correlations between key features and car prices  
 
-## ✨ Future Work
-- Experiment with advanced models like **Random Forest** and **XGBoost**  
-- Deploy as a **Streamlit/Flask web app** for user interaction  
-- Hyperparameter tuning with GridSearchCV  
+
